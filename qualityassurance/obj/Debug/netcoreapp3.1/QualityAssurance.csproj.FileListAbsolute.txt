@@ -1,0 +1,13 @@
+C:\Users\david\source\repos\qualityassurance\QualityAssurance\bin\Debug\netcoreapp3.1\qualityassurance.exe
+C:\Users\david\source\repos\qualityassurance\QualityAssurance\bin\Debug\netcoreapp3.1\qualityassurance.deps.json
+C:\Users\david\source\repos\qualityassurance\QualityAssurance\bin\Debug\netcoreapp3.1\qualityassurance.runtimeconfig.json
+C:\Users\david\source\repos\qualityassurance\QualityAssurance\bin\Debug\netcoreapp3.1\qualityassurance.runtimeconfig.dev.json
+C:\Users\david\source\repos\qualityassurance\QualityAssurance\bin\Debug\netcoreapp3.1\qualityassurance.dll
+C:\Users\david\source\repos\qualityassurance\QualityAssurance\bin\Debug\netcoreapp3.1\qualityassurance.pdb
+C:\Users\david\source\repos\qualityassurance\QualityAssurance\obj\Debug\netcoreapp3.1\QualityAssurance.csprojAssemblyReference.cache
+C:\Users\david\source\repos\qualityassurance\QualityAssurance\obj\Debug\netcoreapp3.1\QualityAssurance.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\qualityassurance\QualityAssurance\obj\Debug\netcoreapp3.1\QualityAssurance.AssemblyInfo.cs
+C:\Users\david\source\repos\qualityassurance\QualityAssurance\obj\Debug\netcoreapp3.1\QualityAssurance.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\qualityassurance\QualityAssurance\obj\Debug\netcoreapp3.1\qualityassurance.dll
+C:\Users\david\source\repos\qualityassurance\QualityAssurance\obj\Debug\netcoreapp3.1\qualityassurance.pdb
+C:\Users\david\source\repos\qualityassurance\QualityAssurance\obj\Debug\netcoreapp3.1\QualityAssurance.genruntimeconfig.cache
